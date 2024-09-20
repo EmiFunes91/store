@@ -7,38 +7,38 @@ Esta API fue desarrollada para facilitar la administración de una tienda virtua
 
 🔧 Tecnologías Utilizadas
 
-Lenguaje: Java
+● Lenguaje: Java
 
-Framework: Spring Boot
+● Framework: Spring Boot
 
-Motor de Plantillas: Thymeleaf
+● Motor de Plantillas: Thymeleaf
 
-Base de Datos: MySQL
+● Base de Datos: MySQL
 
-Autenticación: Spring Security
+● Autenticación: Spring Security
 
-Manejo de Dependencias: Maven
+● Manejo de Dependencias: Maven
 
 
 🚀 Características
 
-CRUD completo de productos, categorías y usuarios.
+● CRUD completo de productos, categorías y usuarios.
 
-Autenticación y autorización con roles personalizados.
+● Autenticación y autorización con roles personalizados.
 
-Integración con base de datos MySQL para persistencia de datos.
+● Integración con base de datos MySQL para persistencia de datos.
 
-Interfaz administrativa utilizando Thymeleaf.
+● Interfaz administrativa utilizando Thymeleaf.
 
-Validación de datos y manejo de excepciones global.
+● Validación de datos y manejo de excepciones global.
 
-Documentación de la API con Swagger para facilitar la integración.
+● Documentación de la API con Swagger para facilitar la integración.
 
 
 📈 Próximos Pasos
 
-Implementar paginación y filtrado avanzado de productos.
+● Implementar paginación y filtrado avanzado de productos.
 
-Agregar funcionalidades de búsqueda de productos.
+● Agregar funcionalidades de búsqueda de productos.
 
-Mejorar la seguridad con OAuth2 y JWT.
+● Mejorar la seguridad con OAuth2 y JWT.
