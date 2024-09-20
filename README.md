@@ -1,3 +1,5 @@
+API de Gestión de Productos
+
 📄 Sobre Este Proyecto
 
 Esta API fue desarrollada para facilitar la administración de una tienda virtual, ofreciendo operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre productos, categorías y usuarios. La API está pensada para ser la columna vertebral de una plataforma de e-commerce, permitiendo a los administradores gestionar la tienda de manera eficiente. Además, se implementó un sistema de autenticación y autorización para asegurar que solo los usuarios autorizados puedan acceder y modificar los datos sensibles. La API cuenta con endpoints bien definidos y documentados, facilitando la integración con frontend y otras aplicaciones.
@@ -16,8 +18,6 @@ Base de Datos: MySQL
 Autenticación: Spring Security
 
 Manejo de Dependencias: Maven
-
-Documentación de API: Swagger
 
 
 🚀 Características
