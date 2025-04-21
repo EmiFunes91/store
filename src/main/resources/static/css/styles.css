@@ -1,0 +1,139 @@
+/* === FUENTE Y FONDO GENERAL === */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #1e1e2f;
+    color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+}
+
+/* === CONTENEDORES === */
+.container {
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+
+/* === TÍTULOS === */
+h1, h2 {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 25px;
+    color: #ffffff;
+}
+
+/* === BOTONES === */
+.btn {
+    border-radius: 8px;
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+    color: #212529;
+}
+
+.btn-warning:hover {
+    background-color: #e0a800;
+    border-color: #d39e00;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-danger:hover {
+    background-color: #bd2130;
+    border-color: #b21f2d;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+}
+
+/* === TABLAS === */
+.table {
+    background-color: #2b2e3c;
+    color: #f1f1f1;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.table thead {
+    background-color: #3a3f58;
+    color: #ffffff;
+}
+
+.table th, .table td {
+    vertical-align: middle !important;
+}
+
+.table tbody tr:hover {
+    background-color: #3e435c;
+    transition: background 0.2s ease;
+}
+
+/* === IMÁGENES === */
+.img-thumbnail {
+    border: none;
+    box-shadow: 0 0 6px rgba(255, 255, 255, 0.2);
+}
+
+/* === BADGES DE ESTADO === */
+.badge.bg-success {
+    background-color: #28a745;
+}
+
+.badge.bg-secondary {
+    background-color: #6c757d;
+}
+
+/* === INPUTS / FORMULARIOS === */
+.form-label {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.form-control {
+    background-color: #f8f9fa;
+    border-radius: 6px;
+}
+
+.text-danger {
+    font-size: 0.85rem;
+}
+
+/* === RESPONSIVE === */
+@media (max-width: 576px) {
+    h1, h2 {
+        font-size: 1.5rem;
+    }
+
+    .btn {
+        font-size: 0.9rem;
+        padding: 6px 12px;
+    }
+}
+
+
+
+
+
